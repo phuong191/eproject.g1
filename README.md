@@ -21,7 +21,7 @@ Project title: Shrek-Juice
 
 ============================
 
-eProject documentation at 
+eProject documentation at : https://github.com/phuong191/eproject.g1/tree/main/document
 
 ============================
 
