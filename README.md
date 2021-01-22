@@ -13,11 +13,11 @@ Project title: Shrek-Juice
 
 3 collaborators:
 
-     Bui Thi Thanh Phuong ()Student1280945
+     Bui Thi Thanh Phuong (PhuongBTTTS2010039@fpt.edu.vn)Student1280945
 
-     Dinh Thanh Bao Nam ()Student1280928
+     Dinh Thanh Bao Nam (NamDTBTS2010009@fpt.edu.vn)Student1280928
      
-     Nguyen Le Truong ()Student1280929
+     Nguyen Le Truong (TruongNLTS2010047@fpt.edu.vn)Student1280929
 
 ============================
 

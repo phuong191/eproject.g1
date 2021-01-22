@@ -399,7 +399,7 @@ http://www.templatemo.com/tm-515-eatery
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 650px;
+    height: 650px;   
   }
 
   .slider .item-first {
@@ -434,7 +434,60 @@ http://www.templatemo.com/tm-515-eatery
     color: #ffffff;
   }
 
+#chocolate {
+    background: url('../images/Frui_tea_3.jpg') ;
+    background-size: cover;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    height: 550px;
+  }
+  #juice {
+    background: url('../images/fruit_and_juice_main3.png');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 550px;
+  }
 
+  #vegetable {
+    background: url('../images/vegetablejuice.jpg');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 550px;
+
+  }
+  #moctaik {
+    background: url('../images/moctaik_3.jpg');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 550px;
+
+  }
+  #protein {
+
+    background: url('../images/protein101jpg.jpg');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 550px;
+  }
+
+  #smoothie {
+
+    background: url('../images/protein101jpg.jpg');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 550px;
+  }
 
   /*---------------------------------------
       ABOUT              
@@ -647,6 +700,7 @@ http://www.templatemo.com/tm-515-eatery
     background: url('../images/feedback1.jpg') center center no-repeat;
     background-size: cover;
   }
+  
 
   #testimonial .owl-dots {
     position: relative;
